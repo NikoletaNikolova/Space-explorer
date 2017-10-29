@@ -1,0 +1,7 @@
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\bin\Debug\SaveMySkin.exe.config
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\bin\Debug\SaveMySkin.exe
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\bin\Debug\SaveMySkin.pdb
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\obj\Debug\SaveMySkin.csprojResolveAssemblyReference.cache
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\obj\Debug\SaveMySkin.csproj.CoreCompileInputs.cache
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\obj\Debug\SaveMySkin.exe
+D:\my-cool-projects\Space-explorer\First Project for Github\SaveMySkin\obj\Debug\SaveMySkin.pdb
